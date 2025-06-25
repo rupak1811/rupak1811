@@ -53,6 +53,7 @@ I am a passionate software developer with a strong background in full-stack web 
 - <b>Cisco Networking Academy (edX Verified)</b>  
 - <b>edX Verified Licence</b>
 
+
 ---
 
 ## 🏆 Achievements
