@@ -24,7 +24,7 @@ I am a passionate software developer with a strong background in full-stack web 
   </tr>
   <tr> 
     <td><b>Web</b></td>
-    <td>Node.js, Express.js, React, React-DOM, Stripe, PHP</td>
+    <td>Node.js, Next.js, Express.js, React, React-DOM, Stripe, PHP</td>
   </tr>
   <tr>
     <td><b>Mobile</b></td>
