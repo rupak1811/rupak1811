@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Location-Eluru,%20Andhra%20Pradesh,%20India-ffa69e?style=flat-square"/>
   <img src="https://img.shields.io/badge/Email-rupakchimakurthi1811@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white"/>
 </p> 
------
+----
 
 ## 👨‍💻 About Me 
 
@@ -13,7 +13,7 @@
 I am a passionate software developer with a strong background in full-stack web and mobile app development. I thrive on crafting secure, scalable, and user-centric solutions. Currently, I am interning at Optivance Technologies Pvt. Ltd., contributing to impactful projects and enhancing my expertise in modern tech ecosystems.
 
 
------
+----
 
 ## 🛠️ Tech Stack
 
