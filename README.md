@@ -93,7 +93,6 @@ I am a passionate software developer with a strong background in full-stack web 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupak1811&theme=ayu-mirage&hide_border=true" height="170" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupak1811&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
 </p>
-
 ---
 
 ## 📬 Contact
