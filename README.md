@@ -35,7 +35,7 @@ I am a passionate software developer with a strong background in full-stack web 
   <tr>
     <td><b>Cloud/Tools</b></td>
     <td>AWS, Redux, Expo, Vercel, Razorpay, Render.io, V0</td>
-  </tr>
+  </tr> 
   <tr>
     <td><b>Specialized</b></td>
     <td>Full-Stack & Mobile App Development, Cloud, Security</td>
