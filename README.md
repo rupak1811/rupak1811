@@ -12,7 +12,7 @@
 I am a passionate software developer with a strong background in full-stack web and mobile app development. I thrive on crafting secure, scalable, and user-centric solutions. Currently, I am interning at Optivance Technologies Pvt. Ltd., contributing to impactful projects and enhancing my expertise in modern tech ecosystems.
   
 ---- 
-  
+   
 ## 🛠️ Tech Stack
 
 <table>
