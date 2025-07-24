@@ -42,7 +42,7 @@ I am a passionate software developer with a strong background in full-stack web 
   </tr>
 </table>
   
-----
+---
 
 ## 🎓 Certifications
 
