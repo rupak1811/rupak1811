@@ -14,7 +14,7 @@ I am a passionate software developer with a strong background in full-stack web 
 ----
     
 ## 🛠️ Tech Stack
-
+ 
 <table>
   <tr>
     <td><b>Languages</b></td>
