@@ -27,7 +27,7 @@ I am a passionate software developer with a strong background in full-stack web 
   <tr>
     <td><b>Mobile</b></td>
     <td>React Native, Kotlin, Flutter, Dart, Java</td>
-  </tr>
+  </tr> 
   <tr>
     <td><b>Databases</b></td>
     <td>MongoDB, Firebase, Room Database</td>
