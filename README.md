@@ -49,7 +49,7 @@ I am a passionate software developer with a strong background in full-stack web 
 - <b>Microsoft x LinkedIn:</b> Career Essentials in Generative AI  
 - <b>Google Cloud:</b> Career Launchpad – Cloud Engineer Track  
 - <b>Cisco Networking Academy (edX Verified)</b>  
-- <b>edX Verified Licence</b>
+- <b>edX Verified Licence</b> 
   
 ---
 
