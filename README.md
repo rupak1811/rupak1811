@@ -60,7 +60,7 @@ I am a passionate software developer with a strong background in full-stack web 
 - 🏆 License in Career Essentials in Generative AI (Microsoft & LinkedIn)  
 - 🏅 Google Cloud Career Launchpad Program License  
 
-----
+---
 
 ## 💼 Experience
 
