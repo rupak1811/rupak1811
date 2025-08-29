@@ -20,7 +20,7 @@ I am a passionate software developer with a strong background in full-stack web 
     <td><b>Languages</b></td>
     <td>Java, Python, JavaScript, TypeScript, HTML, CSS</td>
   </tr> 
-  <tr> 
+  <tr>  
     <td><b>Web</b></td>
     <td>Node.js, Next.js, Express.js, React, React-DOM, Stripe, PHP</td>
   </tr>
