@@ -107,7 +107,7 @@ I am a passionate software developer with a strong background in full-stack web 
   <img src="https://img.shields.io/badge/Phone-%2B91%209398098589-43d8c9?style=flat-square&logo=phone&logoColor=white"/>
 </p>
 
----
+----
 
 <p align="center"><i>"Transforming ideas into innovative digital solutions"</i> 💡</p>
 
