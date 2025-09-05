@@ -1,4 +1,4 @@
-<h1 align="center">Teja Rupak Chimakurthi</h1>  
+<h1 align="center">Teja Rupak Chimakurthi</h1>    
 <p align="center">
   <b>Innovative Full Stack & Mobile Developer</b><br>   
   <img src="https://img.shields.io/badge/Software%20Intern-Optivance%20Technologies%20Pvt%20Ltd-43d8c9?style=flat-square"/> 
