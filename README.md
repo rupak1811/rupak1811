@@ -76,7 +76,7 @@ I am a passionate software developer with a strong background in full-stack web 
 - Passionate about research and tech education
 
 
----
+----
 
 ## 😃 Fun Facts & Interests
 
