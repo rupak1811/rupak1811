@@ -84,7 +84,7 @@ I am a passionate software developer with a strong background in full-stack web 
 - 🎤 Enjoy public speaking and leading teams  
 - 📚 Always learning the latest in technology
 
----
+----
 
 ## 📊 GitHub Stats
 
